@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OnBoarding Screen</string>
+    <string name="btnNext">Next</string>
+    <string name="btnSkip">Skip</string>
+    <string name="btnStart">Start</string>
+    <string name="desc_onboarding">Lorem ipsum dolor sit amet, sed cu probo aperiam elaboraret, qui at ubique concludaturque. Cum cu postulant forensibus posidonium</string>
+    <string name="title_onboarding">Loren Ipsum</string>
+</resources>
